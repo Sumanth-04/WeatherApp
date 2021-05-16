@@ -59,7 +59,7 @@ class App extends React.Component {
       },{
         value: "Mysore",
       },{
-        value: "Kolkatta",
+        value: "kolkata",
       },{
         value: "Chennai",
       },{
